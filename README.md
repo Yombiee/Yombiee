@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rubik's cube solving
 - 🌱 I’m currently learning Java, PHP, HTML, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yombieematt@gmail.com
+- 📫 How to reach me mattsiered@gmail.com
 
 <!---
 Yombiee/Yombiee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
