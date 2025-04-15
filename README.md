@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yombiee
-- 👀 I’m interested in Rubik's cube solving
+- 👀 I’m interested in Bridge ♦️ & Rubiks Cube
 - 🌱 I’m currently learning Java, PHP, HTML, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mattsiered@gmail.com
